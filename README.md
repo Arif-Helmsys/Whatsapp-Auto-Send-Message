@@ -9,7 +9,7 @@ Bu program **Python** dili ile yazılmıştır.
 **"exe_link.md" de bulunan "exe" linkine tıklayıp programı indirebilirsiniz. Boyutu fazla olduğundan githuba atamadım (:**
 - **Bu uygulama 1920x1080 ekranda ve Opera GX internet tarayıcısında test edilmiştir**
 - Yukarıda görünen inputlara (üste)mesaj ve (alta)isim yada numara yazılarak istenilen kişi/kişilere **istersek** belirleyebileceğimiz saatte belirlediğimiz mesajı gönderen bir sistem içerisinde çalışır.
-- Kişiyi/kişileri ".txt" metin belgesini masaüstüne kaydeder.
+- Kişiyi/kişileri ".txt" metin belgesine masaüstüne kaydeder.
 - "Zamanla"butonu eğer aktifte "Gönder" butonuna basılırsa belirlediğimiz saate kadar herhangi bir pencere veya bildirim gelmeyecek.
 - Bildirim yalnızca program çalışmayı durdurduğunda yani mesaj işlemini bitidiğinde gözükecek.
 - "Ekle" Butonuna basıldığında masaüstünde "Numaralar.txt" dosyası oluşturulacak.
