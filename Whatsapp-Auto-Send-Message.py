@@ -82,7 +82,6 @@ class MainWindow():                   # MainWindow adında her olayın gerçekle
                 while True:
                     self.local_time = time.localtime(time.time())
                     if self.e1 == self.local_time.tm_hour and self.e2 == self.local_time.tm_min:
-                        print("zaman doldu")
                         break
                     else:
                         pass
@@ -94,12 +93,10 @@ class MainWindow():                   # MainWindow adında her olayın gerçekle
                     doc = q.read().split("\n")
                     if doc.index(""):
                         doc.remove("")
-                        print(doc,len(doc)) 
                         time.sleep(5)
                         while sayac <= len(doc):
                             time.sleep(2)
                             pyg.typewrite(doc[sayac])          # kişi adı yazma
-                            print(doc[sayac])
                             sayac += 1             
                             time.sleep(3)                  
                             pyg.click(162,345)                 # kişi
@@ -113,7 +110,6 @@ class MainWindow():                   # MainWindow adında her olayın gerçekle
                             pyg.click(214,216)                 # isim arama
                             if sayac == len(doc):
                                 msg.showinfo("Bilgi","Mesaj Gönderme İşlemi Sonlandırıldı")
-                                print("bitti")
                                 break
                             else:
                                  pass
@@ -126,12 +122,10 @@ class MainWindow():                   # MainWindow adında her olayın gerçekle
                     doc = q.read().split("\n")
                     if doc.index(""):
                         doc.remove("")
-                        print(doc,len(doc)) 
                         time.sleep(5)
                         while sayac <= len(doc):
                             time.sleep(2)
                             pyg.typewrite(doc[sayac])                                             # kişi adı yazma
-                            print(doc[sayac])
                             sayac += 1             
                             time.sleep(3)                  
                             pyg.click(162,345)                                                    # kişi
