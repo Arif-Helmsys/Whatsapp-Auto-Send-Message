@@ -10,11 +10,11 @@ Bu program **Python** dili ile yazılmıştır.
 - **Bu uygulama 1920x1080 ekranda ve Opera GX internet tarayıcısında test edilmiştir**
 - Yukarıda görünen inputlara (üste)mesaj ve (alta)isim yada numara yazılarak istenilen kişi/kişilere **istersek** belirleyebileceğimiz saatte belirlediğimiz mesajı gönderen bir sistem içerisinde çalışır.
 - Kişiyi/kişileri ".txt" metin belgesine masaüstüne kaydeder.
-- "Zamanla"butonu eğer aktifte "Gönder" butonuna basılırsa belirlediğimiz saate kadar herhangi bir pencere veya bildirim gelmeyecek.
+- "Zamanla"butonu eğer aktifse "Gönder" butonuna basılırsa belirlediğimiz saate kadar herhangi bir pencere veya bildirim gelmeyecek.
 - Bildirim yalnızca program çalışmayı durdurduğunda yani mesaj işlemini bitidiğinde gözükecek.
 - "Ekle" Butonuna basıldığında masaüstünde "Numaralar.txt" dosyası oluşturulacak.
 - Eğer masaüstünde "Numaralar.txt" dosyası yoksa "Gönder" butonu aktif olmayacak.
-- "Zamanla" butonu aktif değil ise gerçekleştirdiğiniz işlem anında gerçekleşecektir.
+- "Zamanla" butonu aktif değil ise gerçekleştirdiğiniz işlem anında çalışacaktır.
 - Program çalıştığı vakit (mesaj yollama sırasında) kapatılırsa bitene kadar durmayabilir.
 
 **Herhangi bir virüs bulunmamaktadır kodları incelediğinizde de görebilirsiniz**.
