@@ -8,6 +8,8 @@ Bu program **Python** dili ile yazılmıştır.
 
 
 **PROGRAMI AÇMADAN ÖNCE WHATSAPP WEBDE QR KODUNUZU OKUTMAYI UNUTMAYIN YOKSA PROGRAM, OLUR OLMADIK YERLERE TIKLAR**
+
+
 **"exe_link.md" de bulunan "exe" linkine tıklayıp programı indirebilirsiniz. Boyutu fazla olduğundan githuba atamadım (:**
 - **Bu uygulama 1920x1080 ekranda ve Opera GX internet tarayıcısında test edilmiştir**
 - Yukarıda görünen inputlara (üste)mesaj ve (alta)isim yada numara yazılarak istenilen kişi/kişilere **istersek** belirleyebileceğimiz saatte belirlediğimiz mesajı gönderen bir sistem içerisinde çalışır.
