@@ -6,6 +6,7 @@ Bu program **Python** dili ile yazılmıştır.
 
 ![asd](https://user-images.githubusercontent.com/84701901/132137129-283f814e-ea5e-4213-a48a-f486f4bf1ef5.png)
 
+
 - **Bu uygulama 1920x1080 ekranda ve Opera GX internet tarayıcısında test edilmiştir**
 - Yukarıda görünen inputlara (üste)mesaj ve (alta)isim yada numara yazılarak istenilen kişi/kişilere **istersek** belirleyebileceğimiz saatte belirlediğimiz mesajı gönderen bir sistem içerisinde çalışır.
 - Kişiyi/kişileri ".txt" metin belgesini masaüstüne kaydeder.
