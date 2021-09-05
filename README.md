@@ -6,6 +6,8 @@ Bu program **Python** dili ile yazılmıştır.
 
 ![asd](https://user-images.githubusercontent.com/84701901/132137129-283f814e-ea5e-4213-a48a-f486f4bf1ef5.png)
 
+
+**PROGRAMI AÇMADAN ÖNCE WHATSAPP WEBDE QR KODUNUZU OKUTMAYI UNUTMAYIN YOKSA PROGRAM, OLUR OLMADIK YERLERE TIKLAR**
 **"exe_link.md" de bulunan "exe" linkine tıklayıp programı indirebilirsiniz. Boyutu fazla olduğundan githuba atamadım (:**
 - **Bu uygulama 1920x1080 ekranda ve Opera GX internet tarayıcısında test edilmiştir**
 - Yukarıda görünen inputlara (üste)mesaj ve (alta)isim yada numara yazılarak istenilen kişi/kişilere **istersek** belirleyebileceğimiz saatte belirlediğimiz mesajı gönderen bir sistem içerisinde çalışır.
@@ -16,5 +18,6 @@ Bu program **Python** dili ile yazılmıştır.
 - Eğer masaüstünde "Numaralar.txt" dosyası yoksa "Gönder" butonu aktif olmayacak.
 - "Zamanla" butonu aktif değil ise gerçekleştirdiğiniz işlem anında çalışacaktır.
 - Program çalıştığı vakit (mesaj yollama sırasında) kapatılırsa bitene kadar durmayabilir.
+- Program Whatsapp Web'i açtıktan 10sn sonra kişiyi/kişilerle ilgili işlemi yapar
 
 **Herhangi bir virüs bulunmamaktadır kodları incelediğinizde de görebilirsiniz**.
