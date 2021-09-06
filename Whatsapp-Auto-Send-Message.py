@@ -17,9 +17,6 @@
 - SADECE NUMARA MI YAZMAK ZORUNDAYIM ?
  + Hayır. Whatsapp'da kişiyi nasıl kaydettiysen öyle yazmalısın.
 
-- HANGİ İŞLETİM SİSTEMLERİ İÇİN GEÇERLİ ?
- + Sana hangisi lazım ? :)
- 
 """
 __AUTHOR__ = "Arif-Helmsys"
 
