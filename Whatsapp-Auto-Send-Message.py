@@ -158,7 +158,7 @@ class MainWindow():                   # MainWindow adında her olayın gerçekle
         self.timer.place(x=10,y=300)
         Label(self.root,text="WhatsApp",bg="green",fg="white",font=("arial",20,"bold")).pack() # Başlık
         Label(self.root,text="Mesaj",bg="green",fg="white",font=("arial",13,"bold")).place(x=195,y=100)
-        Label(self.root,text="Numara(örn:533xxyyz)\nVeya\nİsim",bg="green",fg="white",font=("arial",10,"bold")).place(x=140,y=190)
+        Label(self.root,text="Numara(örn:533xxxyyzz)\nVeya\nİsim",bg="green",fg="white",font=("arial",10,"bold")).place(x=140,y=190)
         Label(self.root,text="Saat\n-\nDakika",bg="green",fg="white",font=("arial",10,"bold")).place(x=30,y=190)
         self.time = Label(self.root,bg="green",fg="white",font=("arial",10))
         self.time.place(x=370,y=12)
